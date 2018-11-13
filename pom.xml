@@ -69,9 +69,9 @@
                             <images>
                                 <image>
                                     <alias>payara-micro</alias>
-                                    <name>ivargrimstad/${project.artifactId}:payara-micro</name>
+                                    <name>systelab/${project.artifactId}:payara-micro</name>
                                     <build>
-                                        <maintainer>Ivar Grimstad (ivar.grimstad@gmail.com)</maintainer>
+                                        <maintainer>Alfons Serra (aserra@werfen.com)</maintainer>
                                         <from>payara/micro:174</from>
                                         <assembly>
                                             <basedir>/opt/payara/deployments</basedir>
